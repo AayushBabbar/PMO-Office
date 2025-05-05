@@ -1,1 +1,1 @@
-system.out.println('Hello from Java');
+system.out.println('\version 2');
